@@ -1,10 +1,25 @@
-//
-//  FxWorld.m
-//  Fx
-//
-//  Created by alo on 31/12/2008.
-//  Copyright 2008 __MyCompanyName__. All rights reserved.
-//
+/*
+ *  FxWorld.m
+ *  Fx
+ *
+ *  Created by tehis on 31/12/2008.
+ *  
+ *	This file is part of Fx.
+ *
+ *	Fx is free software: you can redistribute it and/or modify
+ *	it under the terms of the GNU General Public License as published by
+ *	the Free Software Foundation, either version 3 of the License, or
+ *	(at your option) any later version.
+ 
+ *	Fx is distributed in the hope that it will be useful,
+ *	but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *	GNU General Public License for more details.
+ 
+ *	You should have received a copy of the GNU General Public License
+ *	along with Fx.  If not, see <http://www.gnu.org/licenses/>. 
+ *
+ */
 
 #import "FxWorld.h"
 
